@@ -151,7 +151,7 @@ span{
 }
 .about-text p{
     color: var(--other-color);
-    font-size: var(--p-font);
+    font-size: 21px;
     line-height: 30px;
     margin-bottom: 3rem;
 
@@ -309,7 +309,7 @@ span{
 }
 .right-contact p{
     color: var(--other-color);
-    font-size: var(--p-font);
+    font-size: 21px;
     line-height: 30p;
 }
 .end-section{
